@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhito
-- 👀 I’m interested in all kinds programing
-- 🌱 I’m currently learning React and next.js
+- 👀 I’m interested in all kinds of programing
+- 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on all if possible
 - 📫 How to reach me victor.avila.v@gmail.com
 
